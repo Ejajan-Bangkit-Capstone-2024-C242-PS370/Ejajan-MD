@@ -4,7 +4,7 @@ E-Jajan adalah aplikasi yang dirancang untuk mendukung sekolah dalam menyediakan
 
 ---
 
-## **Login Credentials**
+## **Sample Login Credentials**
 
 ### **Merchant**  
 - **Email:** `merchant.1234@merchant.ejajan.com`  
