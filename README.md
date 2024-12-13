@@ -45,11 +45,11 @@ A page for students using facial recognition as the primary identification metho
 
 ### **3. Parent Page**  
 A dedicated page for parents to monitor and manage student transactions.
-![Parent Page](https://github.com/user-attachments/assets/5664404c-9784-4e1d-bb0c-095f2dc38898)
+![Parent Page](https://github.com/user-attachments/assets/ac5273c1-30b8-4470-b403-504e0e566d64)
 
 ### **4. Merchant Page**  
 A page for merchants to manage menus and transactions.
-![Merchant Page](https://github.com/user-attachments/assets/141eb33b-ee91-4c3f-aac2-c44b9fbc1be2)
+![Merchant Page](https://github.com/user-attachments/assets/6933cf38-6c18-4c29-87fb-06e199dc8807)
 
 ---
 
