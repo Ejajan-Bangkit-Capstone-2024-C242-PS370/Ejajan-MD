@@ -1,6 +1,6 @@
 # **Welcome to E-Jajan**
 
-E-Jajan adalah aplikasi yang dirancang untuk mendukung sekolah dalam menyediakan makanan bergizi untuk siswa dengan berbagai fitur canggih, seperti pengenalan wajah, sistem top-up, dan konektivitas real-time.
+E-Jajan is an application designed to support schools in providing nutritious meals for students with advanced features such as facial recognition, a top-up system, and real-time connectivity.
 
 ---
 
@@ -18,7 +18,7 @@ E-Jajan adalah aplikasi yang dirancang untuk mendukung sekolah dalam menyediakan
 - **Email:** `student.1234@student.ejajan.com`  
 - **Password:** `student.1234`
 
-> **Catatan:** Akun dan kredensial diberikan oleh **School Admin**.
+> **Note:** Accounts and credentials are provided by the **School Admin**.
 
 ---
 
@@ -28,7 +28,7 @@ E-Jajan adalah aplikasi yang dirancang untuk mendukung sekolah dalam menyediakan
 ---
 
 ## **Architecture Pattern**
-Kami menggunakan arsitektur **MVVM (Model-View-ViewModel)** untuk memastikan pengembangan aplikasi yang terstruktur, modular, dan mudah dikelola.  
+We use the **MVVM (Model-View-ViewModel)** architecture to ensure structured, modular, and maintainable application development. 
 ![MVVM Architecture](https://github.com/user-attachments/assets/b05fae34-f054-4c5d-886f-bf63830f8fec)
 
 ---
@@ -36,25 +36,25 @@ Kami menggunakan arsitektur **MVVM (Model-View-ViewModel)** untuk memastikan pen
 ## **Result Screens**
 
 ### **1. Onboarding + Parent and Merchant Login**  
-Tampilan halaman onboarding, login untuk orang tua, dan merchant.  
+Screens for onboarding, parent login, and merchant login.
 ![Onboarding + Login](https://github.com/user-attachments/assets/c344f93f-fc14-44e2-b530-b26690bad4c6)
 
 ### **2. Student Page**  
-Halaman untuk siswa yang menggunakan pengenalan wajah sebagai identifikasi utama.  
+A page for students using facial recognition as the primary identification method.
 ![Student Page](https://github.com/user-attachments/assets/c2f28e2d-8089-4782-acc6-2fd2c6900784)
 
 ### **3. Parent Page**  
-Tampilan khusus untuk orang tua dalam memantau dan mengelola transaksi siswa.  
+A dedicated page for parents to monitor and manage student transactions.
 ![Parent Page](https://github.com/user-attachments/assets/5664404c-9784-4e1d-bb0c-095f2dc38898)
 
 ### **4. Merchant Page**  
-Halaman untuk merchant dalam mengelola menu dan transaksi.  
+A page for merchants to manage menus and transactions.
 ![Merchant Page](https://github.com/user-attachments/assets/141eb33b-ee91-4c3f-aac2-c44b9fbc1be2)
 
 ---
 
 ## **Demo Application**
-Lihat demo aplikasi untuk lebih memahami cara kerja E-Jajan:  
+View the demo application to better understand how E-Jajan works:
 [**Demo Aplikasi**](https://github.com/user-attachments/assets/ef95e03f-96bb-4fe5-805d-beb8b1261170)
 
 ---
